@@ -11,8 +11,10 @@ const emojis = '😘'
 const emo = await emoji(emojis)
 console.log(emo) // JSON
 return emo //JSON
+```
 
-Result:
+## 📍 Final Result
+```js
 {
   creator: 'Lann',
   host: 'https://emojigraph.org/id',
@@ -35,6 +37,7 @@ Result:
     au_kddi: 'https://emojigraph.org/media/au-kddi/face-blowing-a-kiss_1f618.png'
   }
 }
+//JSON
 ```
 
 ## ❗NOTE
