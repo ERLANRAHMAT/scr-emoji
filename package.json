@@ -1,13 +1,15 @@
 {
   "name": "scr-emoji",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "scr-emoji is a scraper used to get emoji data across different platforms/vendors.",
   "main": "module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "emoji"
+    "emoji",
+    "emoji-api",
+    "betabotz"
   ],
   "author": "Lann",
   "license": "MIT",
@@ -26,6 +28,6 @@
   },
   "homepage": "https://github.com/ERLANRAHMAT/scr-emoji#readme",
   "directories": {
-    "lib": "lib"
+    "lib": "scraper"
   }
 }
